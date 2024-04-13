@@ -31,7 +31,7 @@ Feel free to explore my repositories to see more of my React.js projects!
 
 ## Let's Connect
 
-- 📫 You can reach out to me via email at [your.dev.ashwinalexander@gmail.com](mailto:dev.ashwinalexander@gmail.com).
+- 📫 You can reach out to me via email at [dev.ashwinalexander@gmail.com](mailto:dev.ashwinalexander@gmail.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) to stay updated on my professional journey.
 
 Let's build amazing React.js applications and shape the future of web development together!
